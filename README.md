@@ -1,4 +1,4 @@
-# Minimal Vanilla JS Template
+# Wails Minimal Vanilla JS Template
 
 ## About
 
